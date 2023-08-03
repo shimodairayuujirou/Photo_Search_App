@@ -52,7 +52,7 @@ class _PixabayPageState extends State<PixabayPage> {
   void initState() {
     super.initState();
     // 最初に一度だけ画像データを取得する。
-    fetchImages('花');
+    fetchImages('宇宙');
   }
 
   @override
